@@ -1,0 +1,25 @@
+body {
+  background-color: darkslategray;
+  text-align: center;
+}
+h1 {
+  color: ghostwhite;
+  text-shadow: 2px 2px black;
+}
+input {
+  background-color: ghostwhite;
+  text-align: center;
+  border: none;
+  box-shadow: 1px 1px 2px 1px;
+  border-radius: 10pt;
+}
+button {
+  background-color: lightslategray;
+  box-shadow: 1px 1px 2px 1px;
+  border: none;
+  border-radius: 10pt;
+}
+button:hover {
+  background-color: slategray;
+  cursor: pointer;
+}
